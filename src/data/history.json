@@ -15,8 +15,9 @@
     "organisation": "Societe Generale",
     "startDate": "June, 2022",
     "endDate": "July, 2023",
-    "experiences": ["Developed and enforced Azure policies to ensure compliance, security, and governance standards are consistently met across the organization’s cloud environment",
-     "Created PowerShell scripts and Azure Automation Runbooks to automate daily tasks and rapidly implement time-intensive requirements, enhancing operational efficiency and reliability"],
+    "experiences": ["Implemented data parallelism on Google Cloud Platform by utilizing 3 Virtual Machines (VMs) to distribute training data and accelerate Convolutional Neural Network (CNN) processing.",
+     "Achieved a 2x improvement in training speed by using cloud-based data parallelism, significantly reducing execution time.",
+     "Maintained model accuracy at 83% while improving training efficiency by using MPI4PY for effective synchronization andcommunication between the nodes in the distributed environment"],
     "imageSrc": "history/sg.png"
   }
 ]
