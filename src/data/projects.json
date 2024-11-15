@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Social Distance Monitoring",
+    "imageSrc": "projects/social.png",
+    "description": "Developed a system to monitor and ensure social distancing between individuals using a centroid tracking algorithm ",
+    "skills": ["Python", "Yolov3", "OpenCV"],
+    "source": "https://github.com/jitendrasai/ResumeProjects/tree/main/Social%20Distance%20Monitoring"
+  },
+  {
+    "title": "Personalized Image Annotation Using Facebook (Research Project)",
+    "imageSrc": "projects/resnet.png",
+    "description": "Enhanced a personalized image annotation tool using advanced deep learning techniques for similar image retrieval.",
+    "skills": ["Resnet50", "CNN", "Python"],
+    "source": "https://github.com/jitendrasai/ResumeProjects/tree/main/Personalized%20Image%20Annotation"
+  },
+  {
+    "title": "Issue resolution with ChatGPT Using ML Models",
+    "imageSrc": "projects/chat.png",
+    "description": "Developed and tested models to predict whether a developer's issue would be resolved based on initial prompts.",
+    "skills": ["ML", "CNN", "NLP"],
+    "source": "https://github.com/jitendrasai/ResumeProjects/tree/main/Issue%20Resolution%20Prediction"
+  }
+]

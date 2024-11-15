@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Research Work - Graduate Student",
+    "organisation": "Florida State University",
+    "startDate": "Jan, 2024",
+    "endDate": "May, 2024",
+    "experiences": ["Enhanced a personalized image annotation tool utilizing advanced deep learning techniques, resulting in a 50% increase in similar image retrieval accuracy.",
+     "Developed a user-friendly interface using Tkinter, allowing seamless image display, annotation, and search functionality",
+     "Developed and optimized backend functionalities using Python, Utilized a pretrained ResNet-50 model to extract image features, significantly improving retrieval accuracy by 50%."],
+    "imageSrc": "history/fsu.png"
+
+  },
+  {
+    "role": "Systems Engineer",
+    "organisation": "Societe Generale",
+    "startDate": "June, 2022",
+    "endDate": "July, 2023",
+    "experiences": ["Developed and enforced Azure policies to ensure compliance, security, and governance standards are consistently met across the organization’s cloud environment",
+     "Created PowerShell scripts and Azure Automation Runbooks to automate daily tasks and rapidly implement time-intensive requirements, enhancing operational efficiency and reliability"],
+    "imageSrc": "history/sg.png"
+  }
+]
+
+

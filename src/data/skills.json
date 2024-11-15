@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Azure",
+    "imageSrc": "skills/azure.png"
+  },
+  {
+    "title": "ML",
+    "imageSrc": "skills/ml.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/ta.png"
+  },
+  {
+    "title": "DSA",
+    "imageSrc": "skills/data.png"
+  },
+  {
+    "title": "Power bi",
+    "imageSrc": "skills/bi.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.png"
+  },
+  {
+    "title": "NLP",
+    "imageSrc": "skills/nlp.png"
+  },
+  {
+    "title": "Statistics",
+    "imageSrc": "skills/sta.png"
+  },
+  {
+    "title": "Excel",
+    "imageSrc": "skills/excel.png"
+  },
+  {
+    "title": "Powershell",
+    "imageSrc": "skills/ps.png"
+  }
+]
