@@ -3,23 +3,29 @@
     "role": "Research Work - Graduate Student",
     "organisation": "Florida State University",
     "startDate": "Jan, 2024",
-    "endDate": "May, 2024",
-    "experiences": ["Enhanced a personalized image annotation tool utilizing advanced deep learning techniques, resulting in a 50% increase in similar image retrieval accuracy.",
-     "Developed a user-friendly interface using Tkinter, allowing seamless image display, annotation, and search functionality",
-     "Developed and optimized backend functionalities using Python, Utilized a pretrained ResNet-50 model to extract image features, significantly improving retrieval accuracy by 50%."],
+    "endDate": "May, 2025",
+    "experiences": [
+      "Enhanced a personalized image annotation tool utilizing advanced deep learning techniques, resulting in a 50% increase in similar image retrieval accuracy.",
+      "Developed a user-friendly interface using Tkinter, allowing seamless image display, annotation, and search functionality.",
+      "Developed and optimized backend functionalities using Python, utilizing a pretrained ResNet-50 model to extract image features, significantly improving retrieval accuracy by 50%."
+    ],
     "imageSrc": "history/fsu.png"
-
   },
   {
     "role": "Systems Engineer",
     "organisation": "Societe Generale",
     "startDate": "June, 2022",
     "endDate": "July, 2023",
-    "experiences": ["Implemented data parallelism on Google Cloud Platform by utilizing 3 Virtual Machines (VMs) to distribute training data and accelerate Convolutional Neural Network (CNN) processing.",
-     "Achieved a 2x improvement in training speed by using cloud-based data parallelism, significantly reducing execution time.",
-     "Maintained model accuracy at 83% while improving training efficiency by using MPI4PY for effective synchronization andcommunication between the nodes in the distributed environment."],
+    "experiences": [
+      "Developed a robust data management system for a law firm using Java, Spring Boot, Angular, and MySQL, delivering a case dashboard within 25 days that boosted user engagement and satisfaction.",
+      "Led the transition to a microservices architecture, reducing load times by 40% and improving system performance for 2,500+ active users. Migrated 1TB+ of legacy data with zero loss, enhancing operational efficiency.",
+      "Implemented key features including education, employment, and address management modules, and introduced a FAQ modal that reduced support queries by 20%.",
+      "Conducted rigorous testing during peak case seasons, resolving 25% of critical bugs, ensuring high-quality, stable releases.",
+      "Designed and optimized SQL queries and stored procedures, reducing report generation time for business analysts by over 30% and streamlining backend workflows.",
+      "Led functional API testing using Postman, validating request/response cycles, resolving edge-case failures, and ensuring reliable data exchange for onboarding workflows.",
+      "Collaborated with QA and DevOps teams to document API changes, maintain workflow traceability in Confluence, and ensure audit readiness across development sprints.",
+      "Investigated and resolved critical backend issues, including API failures and data discrepancies, reducing ticket escalations through improved exception handling and enhanced database efficiency."
+    ],
     "imageSrc": "history/sg.png"
   }
 ]
-
-

@@ -12,5 +12,5 @@ export default defineConfig({
   build: {
     outDir: 'dist', // Ensures the build output is in the 'dist' directory
   },
-  base: '/port1/', // Adjust this to match your GitHub Pages repository name
+  base: '/port9/', // Adjust this to match your GitHub Pages repository name
 });
